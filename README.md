@@ -6,6 +6,8 @@ Repository for my 1st semester assignments in the MSc AIDA at UoM, in Explorator
 1st homework: Data Transformation Techniques Using Tidyverse for Iris and Patient Datasets
 
 2nd homework: 
+  a) Data Visualization Techniques on Birth Weight Metrics
+  b) Analyzing Development and Corruption Indices with Economist Data
 
 3rd homework: 
 
