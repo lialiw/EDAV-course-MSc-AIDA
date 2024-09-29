@@ -3,16 +3,16 @@ Repository for my 1st semester assignments in the MSc AIDA at UoM, in Explorator
 
 **Short Description - Index of Assignments' Contents**
 
-1st week: 
+1st homework: 
 
-2nd week: 
+2nd homework: 
 
-3rd week: 
+3rd homework: 
 
-4th week: 
+4th homework: 
 
-5th week: 
+5th homework: 
 
-6th week: 
+6th homework: 
 
-7th week: 
+7th homework: 
