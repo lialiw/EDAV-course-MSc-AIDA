@@ -19,5 +19,3 @@ Repository for my 1st semester assignments in the MSc AIDA at UoM, in Explorator
 5th homework: Analyzing Road Network Connectivity Among Greek Prefectures
 
 6th homework: Geographic Data Analysis and Mapping Techniques Using R
-
-7th homework: 
