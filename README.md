@@ -7,9 +7,9 @@ Repository for my 1st semester assignments in the MSc AIDA at UoM, in Explorator
 
 2nd homework: 
 
-  a) Data Visualization Techniques on Birth Weight Metrics
+    a) Data Visualization Techniques on Birth Weight Metrics
   
-  b) Analyzing Development and Corruption Indices with Economist Data
+    b) Analyzing Development and Corruption Indices with Economist Data
   
 
 3rd homework: Data Cleaning Techniques for the Iris Dataset: Handling Inconsistencies and Imputations
